@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">Study Buddy</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="google_web_id">613116581995-nmhis7i79hhqra5ha2h7l889521gq2mj.apps.googleusercontent.com</string>
+    <string name="welcome_to_the_app">Welcome to Study Buddy</string>
+    <string name="tell_user_to_log_in">Login by clicking the button below!</string>
+    <string name="chatwith">chat</string>
+    <string name="add_to_favorites">favorite</string>
+    <string name="enter_group_name">Enter new group name here!</string>
+    <string name="create_group">Create group</string>
+    <string name="user_list">User list</string>
+    <string name="profile">Profile</string>
+    <string name="groups">Groups</string>
+    <string name="group_chats_title">Group chats</string>
+    <string name="tutors">Tutors</string>
+    <string name="tutors_reference">tutors</string>
+    <string name="tutors_list">Tutors list</string>
+    <string name="enter_message">Enter message here</string>
+    <string name="error_no_group_name">Please enter a group name first...</string>
+    <string name="error_try_again">Error... Please try again.</string>
+    <string name="price_not_valid">Please enter a valid price.</string>
+    <string name="price_over_maximum">Price cannot be over $999999</string>
+    <string name="user_email">user email</string>
+    <string name="user_id">user id</string>
+    <string name="users">users</string>
+    <string name="user_name">user name</string>
+    <string name="user_photo">user picture url</string>
+    <string name="other_user_id">other user id</string>
+    <string name="file_send_fail"> Error. File could not be sent.</string>
+    <string name="price_as_string">price as string</string>
+    <string name="access">access</string>
+    <string name="price">price</string>
+    <string name="images">images</string>
+    <string name="image">image</string>
+    <string name="text">text</string>
+    <string name="date_format">dd-MM-yy HH:mm</string>
+    <string name="image_of_user">image_of_user</string>
+    <string name="group_chats">groupchats</string>
+    <string name="chat_rooms">chatrooms</string>
+    <string name="image_type">image/*</string>
+    <string name="chat_id">chat id</string>
+    <string name="chat_name">chat name</string>
+    <string name="error">error</string>
+    <string name="courses_header">Your classes</string>
+    <string name="favorites">favorites</string>
+    <string-array name="class_year_array">
+        <item>Freshman</item>
+        <item>Sophomore</item>
+        <item>Junior</item>
+        <item>Senior</item>
+        <item>Graduate</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="major_array">
+        <item>Archeology</item>
+        <item>Biology</item>
+        <item>Computer Science</item>
+        <item>Data Science</item>
+        <item>Economics</item>
+        <item>Engineering</item>
+        <item>English</item>
+        <item>History</item>
+        <item>Mathematics</item>
+        <item>Philosophy</item>
+    </string-array>
+    <string-array name="cas_dept_array">
+        <item>AR</item>
+        <item>BI</item>
+        <item>CS</item>
+        <item>EC</item>
+        <item>WR</item>
+        <item>HI</item>
+        <item>MA</item>
+        <item>PH</item>
+        <item>RN</item>
+        <item>HS</item>
+        <item>OT</item>
+        <item>AT</item>
+        <item>BE</item>
+        <item>ME</item>
+        <item>EC</item>
+        <item>MS</item>
+        <item>SE</item>
+        <item>AR</item>
+        <item>FA</item>
+        <item>ME</item>
+        <item>TH</item>
+        <item>HU</item>
+        <item>IN</item>
+        <item>NS</item>
+        <item>RH</item>
+        <item>SS</item>
+        <item>AA</item>
+        <item>LC</item>
+        <item>CH</item>
+        <item>ES</item>
+    </string-array>
+    <string-array name="college_array">
+        <item>BUA</item>
+        <item>CAS</item>
+        <item>CFA</item>
+        <item>CGS</item>
+        <item>COM</item>
+        <item>ENG</item>
+        <item>EGS</item>
+        <item>EOP</item>
+        <item>GMS</item>
+        <item>GRS</item>
+        <item>HUB</item>
+        <item>KHC</item>
+        <item>LAW</item>
+        <item>MET</item>
+        <item>OTP</item>
+        <item>PDP</item>
+        <item>QST</item>
+        <item>SAR</item>
+        <item>SDM</item>
+        <item>SED</item>
+        <item>SHA</item>
+        <item>SPH</item>
+        <item>SSW</item>
+        <item>STH</item>
+        <item>SUM</item>
+        <item>UNI</item>
+        <item>XRG</item>
+    </string-array>
+    <string name="class_year_question">What class year are you?</string>
+    <string name="major_question">What is your major?</string>
+    <string name="college_question">What college are you in?</string>
+    <string name="courses_question">What courses are you taking?</string>
+    <string name="add_course_button_text">+</string>
+    <string name="continue_button_text">Continue</string>
+    <string name="delete_course_button_text">-</string>
+    <string name="your_classes">Your classes</string>
+</resources>

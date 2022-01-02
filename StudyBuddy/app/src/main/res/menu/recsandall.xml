@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="All users"
+        android:id="@+id/allUsersBtn"/>
+    <item android:title="Recommendations"
+        android:id="@+id/recsBtn"/>
+    <item android:title="Favorites"
+        android:id="@+id/favsBtn"/>
+</menu>
